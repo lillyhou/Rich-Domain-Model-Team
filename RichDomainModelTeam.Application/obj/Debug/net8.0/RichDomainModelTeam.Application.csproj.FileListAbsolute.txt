@@ -1,0 +1,12 @@
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\bin\Debug\net8.0\RichDomainModelTeam.Application.deps.json
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\bin\Debug\net8.0\RichDomainModelTeam.Application.dll
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\bin\Debug\net8.0\RichDomainModelTeam.Application.pdb
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.csproj.AssemblyReference.cache
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.AssemblyInfoInputs.cache
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.AssemblyInfo.cs
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.csproj.CoreCompileInputs.cache
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.dll
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\refint\RichDomainModelTeam.Application.dll
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\RichDomainModelTeam.Application.pdb
+C:\repos\RichDomainModelTeam\RichDomainModelTeam.Application\obj\Debug\net8.0\ref\RichDomainModelTeam.Application.dll
